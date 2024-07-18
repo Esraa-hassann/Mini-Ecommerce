@@ -1,7 +1,7 @@
 const imageUrl = 'https://fakestoreapi.com/products';
 let cart = [];
 let currentPage = 1;
-const itemsPerPage = 4;  // Adjust this value to set the number of items per page
+const itemsPerPage = 4;  
 let filteredData = [];
 
 // Fetch the data from the URL
